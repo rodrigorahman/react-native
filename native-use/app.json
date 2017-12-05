@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "sdkVersion": "22.0.0",
+    "orientation": "portrait",
+    "name": "Native-Use",
+    "description": "The best triathlon training app in the world.",
+    "slug": "native-use",
+    "version": "1.0",
+    "icon": "https://tylermcginnis.com/udacifitness-512.png",
+    "notification": {
+      "icon": "https://tylermcginnis.com/udacifitness-45.png"
+    },
+    "ios": {
+     "bundleIdentifier": "br.com.native.use"
+    },
+    "android": {
+     "package": "br.com.native.use"
+    }
+  }
+} 
